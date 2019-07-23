@@ -71,4 +71,33 @@ function addButtonEventListeners() {
         }
     }
 }
-addButtonEventListeners()
+addButtonEventListeners();
+
+function getIndex(i) {
+    if (i == 1) {
+        return 4;
+    } else if (i == 2) {
+        return 3;
+    } else if (i == 4) {
+        return 1;
+    } else if (i == 5) {
+        return 0;
+    }
+    return 2;
+}
+
+function addArcEventListeners() {
+    let arcs = document.getElementsByClassName('clicker-arc');
+    for (let i in arcs) {
+        let arc = arcs[i];
+        let id = '' + arc.id;
+        if (id.indexOf('-') > -1) {
+            let index = getIndex(id.split('-')[1].trim().split('.')[0]);
+            arc.onclick = function () {
+                updateProgressCard(index);
+            }
+        }
+
+    }
+}
+addArcEventListeners();

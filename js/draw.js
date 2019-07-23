@@ -66,10 +66,13 @@ var path = svg.selectAll(".solidArc")
         return d.data.color;
     })
     .attr("class", function (d) {
-        return d.data.hoverColor;
+        return `clicker-arc ${d.data.hoverColor}`;
     })
     .attr("stroke", fontDark)
     .attr("d", arc)
+    .attr("id", function (d) {
+        return `arc-${d.data.order}`;
+    })
     .on('mouseover', tip.show)
     .on('mouseout', tip.hide);
 
