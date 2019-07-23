@@ -1,0 +1,202 @@
+body {
+    font: 14px sans-serif;
+    color: #71727A;
+    height: 90vh;
+    background-image: url("../assets/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 0 -80vh;
+    position: relative;
+}
+
+.navbar {
+    margin: 0 -15px;
+}
+
+.nav-link {
+    padding: 0.2rem 0.5rem;
+}
+
+.nav-item {
+    height: 30px;
+}
+
+.nav-img {
+    height: 2.25rem;
+    background-color: white;
+}
+
+.row-img {
+    height: 5rem;
+    border-radius: 50%;
+}
+
+.footer-img {
+    height: 5rem;
+}
+
+/* D3 STYLE
+D3 STYLE
+D3 STYLE */
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #425058;
+    shape-rendering: crispEdges;
+}
+
+.bar {
+    fill: #425058;
+}
+
+/* .solidArc:hover {
+    fill: #AAC9CB;
+} */
+
+.solidArc-neutral:hover {
+    fill: #AAC9CB;
+}
+
+.solidArc-green:hover {
+    fill: #65B144;
+}
+
+.solidArc-orange:hover {
+    fill: #FBB122;
+}
+
+.solidArc-red:hover {
+    fill: #EB5A4E;
+}
+
+.solidArc {
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.x.axis path {
+    display: none;
+}
+
+.aster-score {
+    line-height: 1;
+    font-weight: bold;
+    font-size: 400%;
+}
+
+.d3-tip {
+    line-height: 1;
+    font-weight: bold;
+    padding: 12px;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    border-radius: 2px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+
+.d3-tip:after {
+    box-sizing: border-box;
+    display: inline;
+    font-size: 10px;
+    width: 100%;
+    line-height: 1;
+    color: rgba(0, 0, 0, 0.8);
+    content: "\25BC";
+    position: absolute;
+    text-align: center;
+}
+
+/* Style northward tooltips differently */
+
+.d3-tip.n:after {
+    margin: -1px 0 0 0;
+    top: 100%;
+    left: 0;
+}
+
+/* END D3 STYLE
+END D3 STYLE */
+
+.content {
+    background-color: white;
+    width: 100%;
+    padding: 1rem;
+    margin: 1rem 0;
+    padding: 0;
+}
+
+.intro-text {
+    font-family: 'Arbutus Slab', sans-serif;
+    background-color: #425058;
+    color: white;
+    padding: 1rem 1.5rem;
+    width: 100%;
+    font-size: 2.2em;
+    /* display: flex; */
+}
+
+.intro-text p {
+    margin: 0;
+}
+
+.intro-text p.sub-text {
+    font-size: 85%;
+    font-weight: 200;
+}
+
+h6 {
+    font-family: 'Arbutus Slab', sans-serif;
+    font-size: 1.1em;
+    margin-bottom: 0.3rem;
+}
+
+p.retention {
+    line-height: 1.5rem;
+}
+
+.bg-blue {
+    background-color: #1DB3E7 !important;
+}
+
+.bg-teal {
+    background-color: #00A19A !important;
+}
+
+.bg-neutralTan {
+    background-color: #E0CAA3 !important;
+}
+
+.bg-purple {
+    background-color: #CD4785 !important;
+}
+
+.bg-darkBlue {
+    background-color: #425058 !important;
+}
+
+.custom-bg {
+    color: white;
+    font-family: 'Arbutus Slab', sans-serif;
+    font-size: 150%;
+}
+
+.bar-neutral {
+    background-color: #1DB3E7;
+}
+
+.bar-green {
+    background-color: #65B144;
+}
+
+.bar-orange {
+    background-color: #FBB122;
+}
+
+.bar-red {
+    background-color: #EB5A4E;
+}
