@@ -1,0 +1,154 @@
+pid,name,year,school,coach,content,yol,num,state,county,city,zip,lat,lon,new_city
+8296198,Oliver Adeline,2017,West Bolivar Elementary,Kacie Neville,Elementary,0.37,25,ms,Bolivar,Cleveland MS,38732,33.79185776,-90.67542599,Cleveland
+9548552,Lucy Ryan,2017,Cleveland Central Middle Sch,Kacie Neville,Science & Fine Arts,1.5,92,ms,Bolivar,Cleveland MS,38732,33.75281753,-90.73710619,Cleveland
+9943234,Angel Josephine,2017,Pearman Elementary,Kacie Neville,Science & Fine Arts,no data,300,ms,Bolivar,Cleveland MS,38732,33.82445091,-90.69690268,Cleveland
+7792293,Zoey Aria,2017,Cleveland High,Sarah Trimm,Liberal Arts,1.45,112,ms,Bolivar,Cleveland MS,38732,33.77007717,-90.59636898,Cleveland
+4549689,Grace Christian,2017,West Bolivar High,Kacie Neville,Liberal Arts,1.25,83,ms,Bolivar,Gunnison MS,38746,34.08483205,-90.98610504,Gunnison
+4356725,Madison Sophia,2017,West Bolivar Elementary,Kacie Neville,Elementary,0.71,18,ms,Bolivar,No Region Address,38769,33.80929912,-90.89129877,Rosedale
+4855736,John Adrian,2018,West Bolivar High,Kacie Neville,Liberal Arts,0.4,84,ms,Bolivar,No Region Address,38769,33.93956234,-90.99311859,Rosedale
+6769651,Kennedy Grayson,2018,West Bolivar High,Kacie Neville,Liberal Arts,has data,85,ms,Bolivar,No Region Address,38769,33.86598622,-91.02309919,Rosedale
+2186499,Gabriel Jacob,2018,West Bolivar Middle,Kacie Neville,Liberal Arts,0.3,124,ms,Bolivar,No Region Address,38769,33.97310464,-90.89434151,Rosedale
+1543153,Isaac Alexander,2018,West Bolivar Middle,Kacie Neville,Science & Fine Arts,no data,124,ms,Bolivar,No Region Address,38769,33.99688076,-91.03564684,Rosedale
+7568144,Parker Luna,2017,Cleveland High,Sarah Trimm,Liberal Arts,1.7,75,ms,Bolivar,Hattiesburg MS,39402,31.26787155,-89.40479213,Hattiesburg
+9477761,Violet Elizabeth,2018,D.M. Smith Middle,Sarah Trimm,Elementary,0.8,51,ms,Bolivar,No Region Address,38732-0000,33.78242394,-90.61366245,Cleveland
+6937432,Isaac Lincoln,2017,Pearman Elementary,Kacie Neville,Elementary,0.2,44,ms,Bolivar,No Region Address,38732-2242,33.76601569,-90.60868236,Cleveland
+6638628,Amelia Eleanor,2018,Cleveland High,Sarah Trimm,Math,no data,67,ms,Bolivar,No Region Address,38732-2640,33.78030326,-90.67959186,Cleveland
+3785624,Landon Xavier,2018,Lakeside Elementary,Kelsey Smith,Elementary,0.4,18,ar,Chicot,No Region Address,71653,33.27480909,-91.25682303,Lake Village
+4292655,Charlotte Christian,2017,Lakeside Elementary,Kelsey Smith,Elementary,0.17,20,ar,Chicot,Lake Village AR,71653,33.47162005,-91.41849988,Lake Village
+1698623,Gabriella Mason,2017,Lakeside High,Kelsey Smith,Science & Fine Arts,1.2,106,ar,Chicot,Lake Village AR,71653,33.19296522,-91.25579267,Lake Village
+6332715,Autumn David,2018,Lakeside High,Kelsey Smith,Science & Fine Arts,1.4,71,ar,Chicot,Washington AR,72401,35.79828869,-90.65136253,Jonesboro
+5818839,Dylan Eliana,2018,Lakeside High,Kelsey Smith,Math,1.8,81,ar,Chicot,No Region Address,71901-8321,34.47725635,-92.92338544,Hot Springs National Park
+2313781,Addison Jason,2018,Clarksdale High School,Sarah Trimm,Liberal Arts,has data,100,ms,Coahoma,No Region Address,38614,34.13071226,-90.79714344,Clarksdale
+1691281,William Jacob,2017,Clarksdale High School,Sarah Trimm,Math,no data,106,ms,Coahoma,No Region Address,38614,34.22239771,-90.65100572,Clarksdale
+8927349,Olivia Christian,2018,Clarksdale High School,Sarah Trimm,Math,no data,100,ms,Coahoma,No Region Address,38614,34.22765344,-90.50012652,Clarksdale
+5456229,Cooper James,2018,W. A. Higgins Middle School,Sarah Trimm,Science & Fine Arts,1,100,ms,Coahoma,No Region Address,38614,34.24171619,-90.63782551,Clarksdale
+2539115,Parker Dominic,2017,W. A. Higgins Middle School,Sarah Trimm,Liberal Arts,1.8,132,ms,Coahoma,No Region Address,38614,34.12663067,-90.47086705,Clarksdale
+2526972,Andrew Christian,2018,Booker T. Washington Elementary School,Sarah Trimm,Elementary,0.93,15,ms,Coahoma,No Region Address,38614,34.34730423,-90.52411027,Clarksdale
+9415253,Madison Aaron,2018,Clarksdale Collegiate Public Charter School,Sarah Trimm,Elementary,1.8,27,ms,Coahoma,No Region Address,38614,34.29149137,-90.69680873,Clarksdale
+8284557,Easton Naomi,2018,Oakhurst Middle,Sarah Trimm,Liberal Arts,1.5,123,ms,Coahoma,No Region Address,38614,34.31059391,-90.71692532,Clarksdale
+7413418,Joshua Santiago,2017,Clarksdale High School,Sarah Trimm,Math,no data,112,ms,Coahoma,Clarksdale MS,38614,34.16439487,-90.73859914,Clarksdale
+5472319,Levi Jose,2017,W. A. Higgins Middle School,Sarah Trimm,Liberal Arts,has data,126,ms,Coahoma,Clarksdale MS,38614,34.13582816,-90.7669295,Clarksdale
+6173699,Lucy Sadie,2017,George H. Oliver Elementary,Sarah Trimm,Elementary,1.25,53,ms,Coahoma,Clarksdale MS,38614,34.14123913,-90.82196369,Clarksdale
+3477914,Piper Ryan,2017,J W Stampley 9Th Grade Academy,Sarah Trimm,Liberal Arts,has data,100,ms,Coahoma,No Region Address,38614-4941,34.13819542,-90.46197911,Clarksdale
+4373721,Sarah Elias,2017,George H. Oliver Elementary,Sarah Trimm,Elementary,1,59,ms,Coahoma,No Region Address,38614-7213,34.02104642,-90.60839692,Clarksdale
+2956226,Hudson Scarlett,2018,Provine High,Ashlee Pitts,Liberal Arts,has data,96,ms,Hinds,Oxford MS,38655,34.18217221,-89.24702314,Oxford
+7373956,Leah Everett,2017,Henry Kirksey Middle School,Euzahn Collins,Science & Fine Arts,1.2,81,ms,Hinds,Ridgeland MS,39157,32.44563535,-90.23265741,Ridgeland
+2914987,Caroline Kayden,2017,Provine High,Ashlee Pitts,Liberal Arts,1.3,135,ms,Hinds,Jackson MS,39202,32.32811568,-90.18712517,Jackson
+2669764,Isabella Jack,2017,Dawson Elementary School,Ashlee Pitts,Elementary,0.9,24,ms,Hinds,Jackson MS,39202,32.28966187,-90.18026492,Jackson
+8153227,Nathan Nathan,2018,Smilow Collegiate,Euzahn Collins,Elementary,has data,26,ms,Hinds,No Region Address,39206,32.38636636,-90.20081928,Jackson
+6496561,Mila James,2017,Jim Hill High School,Ashlee Pitts,Math,1.2,138,ms,Hinds,Jackson MS,39206,32.39561069,-90.16952296,Jackson
+4339449,Aurora Andrew,2017,Jim Hill High School,Ashlee Pitts,Liberal Arts,no data,117,ms,Hinds,Jackson MS,39206,32.36771451,-90.18351359,Jackson
+9626795,Easton Leo,2017,Smilow Prep,Euzahn Collins,Math,1,126,ms,Hinds,Jackson MS,39206,32.34559298,-90.18644163,Jackson
+4224678,Ella Mateo,2018,Johnson Elementary,Ashlee Pitts,Science & Fine Arts,1.3,56,ms,Hinds,Jackson MS,39206,32.35215361,-90.15727594,Jackson
+6353217,Logan Hannah,2017,Northwest Jackson Middle,Ashlee Pitts,Math,has data,98,ms,Hinds,Jackson MS,39206,32.35142146,-90.18605578,Jackson
+8471169,Kennedy Ella,2017,Hardy Middle School,Ashlee Pitts,Math,has data,132,ms,Hinds,Jackson MS,39206,32.36568724,-90.17150392,Jackson
+3995684,Nova Caleb,2018,Mary Ida Raines Elementary School,Euzahn Collins,Elementary,no data,26,ms,Hinds,No Region Address,39209,32.3027527,-90.35300004,Jackson
+2245134,Caroline Layla,2017,Smilow Prep,Euzahn Collins,Math,1.1,91,ms,Hinds,Jackson MS,39211,32.35854912,-90.08527504,Jackson
+1961437,Everett Adrian,2018,Forest Hill High,Ashlee Pitts,Liberal Arts,has data,120,ms,Hinds,No Region Address,39212,32.20560243,-90.22697781,Jackson
+4291822,Nicholas Ella,2018,Sam M Brinkley Middle School,Ashlee Pitts,Math,1.8,103,ms,Hinds,No Region Address,39213,32.34506432,-90.28295889,Jackson
+5313636,Josephine Julian,2018,Jim Hill High School,Ashlee Pitts,Liberal Arts,1.3,117,ms,Hinds,No Region Address,39204-2387,32.2998079,-90.20933417,Jackson
+6531652,Hannah Ezra,2018,Wingfield High School,Ashlee Pitts,Liberal Arts,has data,108,ms,Hinds,No Region Address,39204-4499,32.25227085,-90.26375509,Jackson
+6939919,Autumn Nathan,2018,Reimagine Prep,Euzahn Collins,Liberal Arts,no data,59,ms,Hinds,No Region Address,39204-5523,32.22676137,-90.27904629,Jackson
+3993249,Levi Emilia,2018,Smilow Prep,Ashlee Pitts,Math,no data,120,ms,Hinds,No Region Address,39206-4945,32.37070054,-90.18035223,Jackson
+4641191,Ryan Leo,2018,Smilow Prep,Euzahn Collins,Liberal Arts,no data,91,ms,Hinds,No Region Address,39206-4945,32.36369564,-90.15018687,Jackson
+4871697,Andrew Josiah,2018,Provine High,Ashlee Pitts,Liberal Arts,has data,103,ms,Hinds,No Region Address,39209-7099,32.40633431,-90.37412646,Jackson
+6968862,Ariana Levi,2018,Provine High,Ashlee Pitts,Liberal Arts,has data,116,ms,Hinds,No Region Address,39209-7099,32.49116361,-90.33146735,Jackson
+5783725,Julian Easton,2017,Clausell Elementary School,Ashlee Pitts,Elementary,has data,15,ms,Hinds,No Region Address,39209-7297,32.46186494,-90.22663181,Jackson
+6468645,Alexander Sophia,2017,Northwest Jackson Middle,Ashlee Pitts,Liberal Arts,1.8,89,ms,Hinds,No Region Address,39213-0000,32.39143698,-90.29359547,Jackson
+4618466,Daniel Julian,2017,S. V. Marshall Elementary,Euzahn Collins,Liberal Arts,no data,158,ms,Holmes,Greenwood MS,38930,33.47085469,-90.10519768,Greenwood
+5258473,Wyatt Alexa,2017,Holmes County Central Hs,Euzahn Collins,Liberal Arts,has data,100,ms,Holmes,Lexington MS,39095,33.06100525,-90.11863408,Lexington
+1262336,Axel Zoey,2017,S. V. Marshall Elementary,Euzahn Collins,Science & Fine Arts,1.8,100,ms,Holmes,No Region Address,39095-8036,33.29620511,-90.10251782,Lexington
+3262588,Aaliyah Ivy,2018,S. V. Marshall Elementary,Euzahn Collins,Science & Fine Arts,no data,146,ms,Holmes,No Region Address,39095-8036,33.06053449,-90.19035196,Lexington
+6326739,Ian Christian,2017,S. V. Marshall Elementary,Euzahn Collins,Liberal Arts,no data,146,ms,Holmes,No Region Address,39095-8036,33.33020972,-90.10967763,Lexington
+3522387,Adeline Alice,2017,Pine Bluff High,Elaina Ballard,Liberal Arts,no data,131,ar,Jefferson,Pine Bluff AR,71601,34.14822628,-92.0468517,Pine Bluff
+6864747,Isla Lincoln,2017,Jack Robey Junior High,Elaina Ballard,Liberal Arts,no data,105,ar,Jefferson,Pine Bluff AR,71603,34.10859978,-91.87975415,Pine Bluff
+8717959,Daniel William,2017,Broadmoor Elementary School,Elaina Ballard,Elementary,1.15,18,ar,Jefferson,Redfield AR,72132,34.43785607,-92.21509838,Redfield
+7255378,Adeline Noah,2018,Pine Bluff High,Elaina Ballard,Liberal Arts,no data,105,ar,Jefferson,Little Rock AR,72211,34.75366311,-92.40470192,Little Rock
+6759686,Adeline Zoe,2018,Pine Bluff High,Elaina Ballard,Liberal Arts,no data,104,ar,Jefferson,No Region Address,71601-4889,34.2809797,-91.78410837,Pine Bluff
+2469262,Parker Lily,2018,Pine Bluff High,Elaina Ballard,Science & Fine Arts,no data,105,ar,Jefferson,No Region Address,71601-4889,34.2259256,-91.79355323,Pine Bluff
+5914814,Hudson Hailey,2018,Broadmoor Elementary School,Elaina Ballard,Elementary,no data,45,ar,Jefferson,No Region Address,71601-6159,34.10726107,-91.99620197,Pine Bluff
+2673261,Luna Brooklyn,2017,Lee Senior High School,Stephanie Hay,Science & Fine Arts,no data,95,ar,Lee,Marianna AR,72360,34.71346229,-91.0054893,Marianna
+2472742,Aurora Alexa,2017,Lee Senior High School,Stephanie Hay,Math,no data,110,ar,Lee,Marianna AR,72360,34.73348938,-91.0256191,Marianna
+7923925,Jason Ella,2018,Lee Senior High School,Stephanie Hay,Liberal Arts,no data,72,ar,Lee,No Region Address,72360-1530,34.69756755,-90.56484034,Marianna
+3751721,Joshua Eva,2017,Anna Strong Elementary,Stephanie Hay,Elementary,no data,21,ar,Lee,No Region Address,72360-2580,34.69117924,-90.56684817,Marianna
+6482763,Claire Wyatt,2018,Greenwood Middle School,Euzahn Collins,Science & Fine Arts,no data,83,ms,Leflore,No Region Address,38930,33.55431476,-90.07244986,Greenwood
+9755257,Austin Lillian,2018,Bankston Elementary,Euzahn Collins,Math,no data,51,ms,Leflore,No Region Address,38930-2214,33.39270028,-90.26464218,Greenwood
+8445882,Samuel Ella,2018,Davis Elementary,Euzahn Collins,Liberal Arts,no data,86,ms,Leflore,No Region Address,38930-4200,33.60457492,-90.09186134,Greenwood
+7761247,Penelope Leonardo,2018,Greenwood High School,Euzahn Collins,Liberal Arts,1,101,ms,Leflore,No Region Address,38930-5135,33.65891758,-90.19047557,Greenwood
+7243756,Ezekiel Jonathan,2018,Greenwood High School,Euzahn Collins,Liberal Arts,no data,100,ms,Leflore,No Region Address,38930-5135,33.33583,-90.03195157,Greenwood
+2641868,Everly Maverick,2018,Greenwood High School,Euzahn Collins,Liberal Arts,no data,100,ms,Leflore,No Region Address,38930-5135,33.52889846,-90.24324526,Greenwood
+3523239,Samantha Emilia,2017,Byhalia Middle School,Haley Creed,Science & Fine Arts,no data,125,ms,Marshall,Holly Springs MS,38635,34.98097236,-89.47556965,Holly Springs
+9443414,Julia Zoe,2017,Byhalia High,Haley Creed,Math,no data,75,ms,Marshall,Olive Branch MS,38654,34.95716051,-89.74935065,Olive Branch
+7155826,Delilah Mateo,2018,Byhalia High,Haley Creed,Liberal Arts,no data,75,ms,Marshall,Gulfport MS,39507,30.37550822,-89.06365783,Gulfport
+6785864,Sadie Ruby,2018,Byhalia Middle School,Haley Creed,Science & Fine Arts,no data,125,ms,Marshall,No Region Address,38611-6968,34.82773582,-89.7328944,Byhalia
+5336441,Eva Evan,2018,Byhalia High,Haley Creed,Math,no data,90,ms,Marshall,No Region Address,38611-6982,34.905631,-89.64040695,Byhalia
+8542132,Ariana Nolan,2018,Byhalia High,Haley Creed,Math,no data,75,ms,Marshall,No Region Address,38611-6982,34.75842961,-89.8060132,Byhalia
+4886596,Xavier Henry,2017,North Panola Junior High,Haley Creed,Science & Fine Arts,no data,100,ms,Panola,Como MS,38619,34.56178868,-89.54543145,Como
+9144727,Santiago Joshua,2017,North Panola High,Haley Creed,Math,no data,60,ms,Panola,Como MS,38619,34.49634612,-89.84447274,Como
+5921878,Lily Camila,2018,Green Hill Elementary,Haley Creed,Elementary,no data,67,ms,Panola,No Region Address,38666,34.40697058,-90.08755605,Sardis
+8246958,Isaiah Josephine,2017,North Panola Junior High,Haley Creed,Math,no data,100,ms,Panola,Senatobia MS,38668,34.66453206,-90.06916573,Senatobia
+7922838,Kinsley Kinsley,2018,North Panola High,Haley Creed,Liberal Arts,no data,60,ms,Panola,No Region Address,38666-3484,34.46542401,-90.09393059,Sardis
+2444623,Christopher Ivy,2018,North Panola High,Haley Creed,Math,no data,60,ms,Panola,No Region Address,38666-3484,34.38057744,-89.83299883,Sardis
+1364934,Austin Leonardo,2018,North Panola High,Haley Creed,Liberal Arts,no data,60,ms,Panola,No Region Address,38666-3484,34.46104577,-89.86902822,Sardis
+9477541,Kayden Santiago,2017,Central High School,Stephanie Hay,Liberal Arts,no data,100,ar,Phillips,Pine Bluff AR,71603,34.18318367,-92.04857374,Pine Bluff
+3396547,Aiden Charlotte,2017,Central High School,Stephanie Hay,Liberal Arts,has data,80,ar,Phillips,Helena AR,72342,34.55091034,-90.59389527,Helena
+6123812,Josiah Jeremiah,2017,Kipp Delta College Prep Middle,Stephanie Hay,Science & Fine Arts,no data,83,ar,Phillips,Helena AR,72342,34.46604717,-90.74004689,Helena
+9651658,Kayden Mila,2018,Central High School,Haley Creed,Science & Fine Arts,no data,90,ar,Phillips,No Region Address,72202-5899,34.72677245,-92.26890066,Little Rock
+2727977,Eva Sofia,2018,Kipp Delta Collegiate High,Stephanie Hay,Science & Fine Arts,no data,135,ar,Phillips,No Region Address,72342-3502,34.45841425,-90.76117377,Helena
+6438636,Jacob Jace,2017,Kipp Delta College Prep Middle,Stephanie Hay,Liberal Arts,no data,84,ar,Phillips,No Region Address,72342-3751,34.57510707,-90.75249136,Helena
+5217689,Bella Scarlett,2018,Kipp Delta College Prep Middle,Stephanie Hay,Science & Fine Arts,no data,60,ar,Phillips,No Region Address,72342-3751,34.52546354,-90.58885374,Helena
+7149446,Michael Robert,2017,Kipp Delta Elementary Literacy Academy,Stephanie Hay,Science & Fine Arts,no data,300,ar,Phillips,No Region Address,72390-2600,34.53359646,-90.59421096,West Helena
+9458615,Ezra Elena,2017,Chicot Primary Elementary School,Elaina Ballard,Elementary,no data,23,ar,Pulaski,Conway AR,72034,35.10403441,-92.46044419,Conway
+3124765,Victoria Audrey,2018,Mabelvale Magnet Middle School,Elaina Ballard,Math,no data,110,ar,Pulaski,North Little Rock AR,72118,34.87224554,-92.31239743,North Little Rock
+2672989,Jackson Aria,2017,Central High School (Little Rock),Stephanie Hay,Liberal Arts,no data,100,ar,Pulaski,No Region Address,72202,34.78275069,-92.26022485,Little Rock
+9162154,Jace Christian,2018,Bale Elementary School,Elaina Ballard,Elementary,no data,19,ar,Pulaski,No Region Address,72204,34.72755786,-92.36598331,Little Rock
+1323363,Emma Elizabeth,2018,Dunbar Magnet Middle School,Stephanie Hay,Science & Fine Arts,no data,110,ar,Pulaski,No Region Address,72206,34.68432197,-92.27828077,Little Rock
+1218557,Serenity James,2017,Cloverdale Middle School,Elaina Ballard,Liberal Arts,no data,120,ar,Pulaski,Little Rock AR,72210,34.72885465,-92.46772054,Little Rock
+2143162,Quinn Lily,2017,Baseline Elementary School,Elaina Ballard,Elementary,no data,19,ar,Pulaski,Little Rock AR,72210,34.7608485,-92.59586155,Little Rock
+4876641,Jason Emily,2017,Mcclellan Magnet High School,Stephanie Hay,Liberal Arts,no data,125,ar,Pulaski,Little Rock AR,72223,34.83735654,-92.55756015,Little Rock
+2739147,Zoey Daniel,2017,Cloverdale Middle School,Elaina Ballard,Liberal Arts,no data,110,ar,Pulaski,Little Rock AR,72227,34.78226768,-92.37286887,Little Rock
+6694542,Ivy Sarah,2017,Mabelvale Elementary School,Elaina Ballard,Science & Fine Arts,no data,104,ar,Pulaski,No Region Address,72103-1702,34.62103526,-92.38451249,Mabelvale
+1827531,Elias Josephine,2017,J A Fair Magnet High School,Stephanie Hay,Liberal Arts,no data,100,ar,Pulaski,No Region Address,72210-4000,34.6650804,-92.41342559,Little Rock
+6595429,Naomi Willow,2018,M. S. Palmer (8-12),Haley Creed,Math,no data,90,ms,Quitman,No Region Address,38646,34.24148398,-90.35560297,Marks
+4862648,Jose Maverick,2017,Quitman County Middle School,Haley Creed,Science & Fine Arts,0.4,66,ms,Quitman,No Region Address,38646,34.32568669,-90.27106728,Marks
+4815467,Zoey Mia,2017,Quitman County Elementary,Haley Creed,Math,no data,100,ms,Quitman,Marks MS,38646,34.27213502,-90.34966396,Marks
+7946736,Chloe Thomas,2017,Gentry High School,Kacie Neville,Liberal Arts,0.5,90,ms,Sunflower,Indianola MS,38751,33.55640737,-90.75620474,Indianola
+2195641,Mason Julian,2018,Carver Upper Elementary,Kelsey Smith,Liberal Arts,1.5,62,ms,Sunflower,Inverness MS,38753,33.36053369,-90.64059101,Inverness
+7484119,Evelyn Noah,2017,Inverness Elementary School,Kacie Neville,Elementary,1.23,35,ms,Sunflower,Leland MS,38756,33.51387008,-90.89189525,Leland
+2756845,Madelyn Paisley,2018,Moorhead Central School,Kacie Neville,Math,0.23,82,ms,Sunflower,No Region Address,38761,33.48808191,-90.51924813,Moorhead
+2812568,Camila Aria,2018,Moorhead Central School,Kacie Neville,Liberal Arts,has data,82,ms,Sunflower,No Region Address,38761,33.43543857,-90.42350722,Moorhead
+4765824,Olivia Christian,2018,Robert L Merritt Junior High School,Kelsey Smith,Math,0.1,120,ms,Sunflower,No Region Address,38751-3277,33.49445471,-90.72431111,Indianola
+8884639,Leah Brooklyn,2018,Robert L Merritt Junior High School,Kelsey Smith,Science & Fine Arts,0.4,113,ms,Sunflower,No Region Address,38751-3277,33.50639628,-90.71101577,Indianola
+4447887,Lydia Christian,2017,Robert L Merritt Junior High School,Kelsey Smith,Math,has data,145,ms,Sunflower,No Region Address,38751-3277,33.56570799,-90.65385161,Indianola
+7617418,Mila Xavier,2017,R.H. Bearden Elementary,Sarah Trimm,Elementary,no data,50,ms,Tallahatchie,Lyon MS,38645,34.14724204,-90.40252788,Lyon
+2816433,Ryan Gianna,2017,R.H. Bearden Elementary,Sarah Trimm,Liberal Arts,1,64,ms,Tallahatchie,No Region Address,38966,33.86709198,-90.37191361,Webb
+4425879,Jacob Michael,2017,R.H. Bearden Elementary,Sarah Trimm,Liberal Arts,no data,100,ms,Tallahatchie,No Region Address,38966,33.95888358,-90.30554874,Webb
+2517747,Allison Alice,2017,West Tallahatchie High,Sarah Trimm,Science & Fine Arts,1.4,92,ms,Tallahatchie,No Region Address,38966,33.87781263,-90.37034508,Webb
+9951212,Aurora Carter,2017,Yocum Math And Science Academy,Elaina Ballard,Science & Fine Arts,no data,300,ar,Union,El Dorado AR,71730,33.33692576,-92.57693278,El Dorado
+3417441,Liam Natalie,2017,Barton Junior High School,Elaina Ballard,Science & Fine Arts,no data,100,ar,Union,El Dorado AR,71730,33.10885746,-92.70461868,El Dorado
+6528647,Mateo Leah,2017,Washington Middle School,Elaina Ballard,Math,no data,120,ar,Union,El Dorado AR,71730,33.22131809,-92.42629772,El Dorado
+1969561,Leah Arianna,2018,Washington Middle School,Elaina Ballard,Math,no data,111,ar,Union,No Region Address,71730-6449,33.05335926,-92.47146269,El Dorado
+2735169,Josephine Maverick,2018,Washington Middle School,Elaina Ballard,Science & Fine Arts,no data,101,ar,Union,No Region Address,71730-6449,33.21692274,-92.72678327,El Dorado
+1483571,Elizabeth Leo,2018,El Dorado High School,Elaina Ballard,Liberal Arts,no data,80,ar,Union,No Region Address,71730-6859,33.06650465,-92.54075724,El Dorado
+1296766,Dylan Skylar,2018,El Dorado High School,Elaina Ballard,Liberal Arts,no data,90,ar,Union,No Region Address,71730-6859,33.06016379,-92.47055662,El Dorado
+5939493,Audrey Logan,2018,Sanders Elementary,Kacie Neville,Elementary,0.85,75,ms,Washington,Oxford MS,38655,34.37489537,-89.70900192,Oxford
+1643362,Maya Hannah,2018,Armstrong Elementary,Kelsey Smith,Elementary,0.6,40,ms,Washington,No Region Address,38701,33.34119019,-90.98926556,Greenville
+8862145,Jordan Joshua,2017,Coleman Junior High School,Kelsey Smith,Liberal Arts,0.8,87,ms,Washington,Greenville MS,38701,33.37303781,-91.12754291,Greenville
+8142947,Samuel Grace,2017,T L Weston Middle School,Kelsey Smith,Liberal Arts,1.1,105,ms,Washington,Greenville MS,38701,33.41693448,-91.08955322,Greenville
+2589233,Ethan Bella,2018,Sanders Elementary,Kacie Neville,Elementary,0.13,61,ms,Washington,No Region Address,38748,33.11168855,-91.18422374,Hollandale
+7861593,Evan Leo,2018,Leland Elementary,Kacie Neville,Math,0.97,90,ms,Washington,No Region Address,38756,33.41130137,-90.94056557,Leland
+5285146,Cora Lillian,2018,Leland High School,Kacie Neville,Liberal Arts,0.3,100,ms,Washington,No Region Address,38756,33.38112994,-90.87912537,Leland
+6949181,Jaxson Sawyer,2018,Leland High School,Kacie Neville,Science & Fine Arts,1.13,101,ms,Washington,No Region Address,38756,33.47647538,-90.79721014,Leland
+1456232,Connor Henry,2017,Leland Elementary,Kacie Neville,Elementary,0.5,17,ms,Washington,Leland MS,38756,33.31154872,-90.83631582,Leland
+8379978,Piper Cameron,2017,Greenville High School,Kelsey Smith,Liberal Arts,1.8,119,ms,Washington,Leland MS,38756,33.49810571,-90.99861729,Leland
+5343382,Alexa Jeremiah,2017,Leland School Park,Kacie Neville,Math,0.2,87,ms,Washington,Leland MS,38756,33.45169651,-90.77076475,Leland
+5838729,Dominic Paisley,2017,Greenville High School,Kelsey Smith,Liberal Arts,1.4,120,ms,Washington,Leland MS,38756,33.4409192,-90.86063761,Leland
+3773386,Harper Charlotte,2017,Boyd Elementary,Euzahn Collins,Elementary,1.12,42,ms,Washington,West MS,39192,33.16693261,-89.69880467,West
+3869222,Adeline Riley,2018,Greenville High School,Kelsey Smith,Science & Fine Arts,0.2,133,ms,Washington,No Region Address,38701-5864,33.27976695,-90.9230691,Greenville
+5839488,Mateo Joshua,2018,Greenville High School,Kelsey Smith,Science & Fine Arts,0.3,78,ms,Washington,No Region Address,38701-5864,33.35014217,-90.95835353,Greenville
+1797728,Victoria Brooklyn,2018,Greenville High School,Kelsey Smith,Liberal Arts,0.4,131,ms,Washington,No Region Address,38701-5864,33.22253564,-90.9420218,Greenville
+5775969,Anthony Axel,2018,Greenville High School,Kelsey Smith,Liberal Arts,1.1,136,ms,Washington,No Region Address,38701-5864,33.3730795,-91.04374292,Greenville
+7256186,Caroline Leonardo,2018,Greenville High School,Kelsey Smith,Science & Fine Arts,1.5,46,ms,Washington,No Region Address,38701-5864,33.27817822,-90.97900524,Greenville
+8579868,Skylar Brayden,2018,Greenville High School,Kelsey Smith,Liberal Arts,1.85,63,ms,Washington,No Region Address,38701-5864,33.30545826,-91.01442412,Greenville
+4116468,Kinsley Cooper,2017,Greenville High School,Kelsey Smith,Liberal Arts,has data,73,ms,Washington,No Region Address,38701-5864,33.41864275,-91.09832197,Greenville
+8679568,Roman Julia,2018,Leland School Park,Kacie Neville,Liberal Arts,0.7,90,ms,Washington,No Region Address,38756-2010,33.48998332,-90.76335843,Leland
