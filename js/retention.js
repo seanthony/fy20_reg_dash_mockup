@@ -29,7 +29,7 @@ for (var c = 0; c < cmData.length; c++) {
 
 for (var c = 0; c < cmData.length; c++) {
     let obj = JSON.parse(JSON.stringify(cmData[c]));
-    if (obj['corps year'] == 2018) {
+    if (obj['year'] == 2018) {
         if (obj.retention == 'High') {
             cmRetention['2018']['red'].push(obj);
         } else if (obj.retention == 'Medium') {
@@ -81,3 +81,37 @@ function createCMSpan(obj) {
 document.getElementById('2cm-people').innerHTML = createCMSpan(cmRetention['2018']);
 document.getElementById('1cm-people').innerHTML = createCMSpan(cmRetention['2019']);
 
+function cmInfo(index) {
+    let cm = cmData[index];
+    document.getElementById('cm-name').innerText = cm.name;
+    document.getElementById('cm-year').innerText = cm.year;
+    document.getElementById('cm-coach').innerText = cm.coach;
+    document.getElementById('cm-specialist').innerText = cm.specialist;
+    document.getElementById('cm-years').innerText = cm.years;
+    document.getElementById('cm-risk').innerText = cm.retention;
+    document.getElementById('cm-alum').innerText = cm.alum;
+
+    var cms = document.getElementsByClassName('clickable-cm-icon');
+    for (let cm of cms) {
+        cm.classList.remove('active');
+    }
+
+    let id = `cm-${index}`;
+    document.getElementById(id).classList.add('active');
+}
+cmInfo(Math.floor(Math.random() * cmData.length));
+
+function addCMEventListeners() {
+    var cms = document.getElementsByClassName('clickable-cm-icon');
+    for (let cm of cms) {
+        console.log(cm);
+        if (cm['id']) {
+            let id = cm.id;
+            let index = Number(id.split('-')[1]);
+            cm.onclick = function () {
+                cmInfo(index);
+            }
+        }
+    }
+}
+addCMEventListeners();

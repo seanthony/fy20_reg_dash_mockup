@@ -40,8 +40,7 @@ body {
 D3 STYLE
 D3 STYLE */
 
-.axis path,
-.axis line {
+.axis path, .axis line {
     fill: none;
     stroke: #425058;
     shape-rendering: crispEdges;
@@ -153,6 +152,15 @@ h6 {
     font-family: 'Arbutus Slab', sans-serif;
     font-size: 1.1em;
     margin-bottom: 0.3rem;
+}
+
+h7 {
+    font-family: 'Arbutus Slab', sans-serif;
+    font-size: 2em;
+}
+
+span.active {
+    text-shadow: 0px 0px 5px #1DB3E7;
 }
 
 p.retention {
