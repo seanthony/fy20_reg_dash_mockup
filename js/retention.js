@@ -52,6 +52,38 @@ for (var c = 0; c < cmData.length; c++) {
     }
 }
 
+function updateRetentionValues(obj) {
+    for (let key in obj) {
+        let total = 0;
+        let active = 0;
+        let subObj = obj[key];
+        for (let subKey in subObj) {
+            if (subKey == 'inactive') {
+                total += subObj[subKey];
+            } else {
+                total += subObj[subKey].length;
+                active += subObj[subKey].length;
+            }
+        }
+        document.getElementById(`${key}-active`).innerText = active;
+        document.getElementById(`${key}-cms`).innerText = total;
+        for (let subKey in subObj) {
+            let num = 0;
+            if (subKey == 'inactive') {
+                num = subObj[subKey];
+            } else {
+                num = subObj[subKey].length;
+            }
+            let perc = Math.round((num / total) * 100) + '%';
+            let text = `${num} | ${perc}`
+            let id = key + '-' + subKey;
+            document.getElementById(id).innerText = text;
+        }
+
+    }
+}
+updateRetentionValues(cmRetention);
+
 function makeSubSpan(arr, color) {
     let subSpan = '';
     for (var c = 0; c < arr.length; c++) {
@@ -104,7 +136,6 @@ cmInfo(Math.floor(Math.random() * cmData.length));
 function addCMEventListeners() {
     var cms = document.getElementsByClassName('clickable-cm-icon');
     for (let cm of cms) {
-        console.log(cm);
         if (cm['id']) {
             let id = cm.id;
             let index = Number(id.split('-')[1]);
