@@ -24,7 +24,7 @@ function updateButtonBars() {
 }
 updateButtonBars();
 
-function updateProgressCard(index) {
+function updateProgressCard(index, b) {
     let obj = buttonInfo[index];
     let shortName = obj.name + ' | ' + obj.ptg + '% of Goal Met';
     let barHTML = `<div id="prog-bar-title" class="card-header ${obj.colorBg} custom-bg">${shortName}` +
@@ -58,9 +58,13 @@ function updateProgressCard(index) {
 
     let button = buttons[index];
     button.classList.add('active');
+
+    if (b) {
+        document.getElementById("prog-bar-card").scrollIntoView(false);
+    }
 }
 
-updateProgressCard(Math.floor(Math.random() * buttonInfo.length));
+updateProgressCard(Math.floor(Math.random() * buttonInfo.length), false);
 
 function addButtonEventListeners() {
     let buttons = document.getElementsByClassName('results-button');
@@ -94,7 +98,7 @@ function addArcEventListeners() {
         if (id.indexOf('-') > -1) {
             let index = getIndex(id.split('-')[1].trim().split('.')[0]);
             arc.onclick = function () {
-                updateProgressCard(index);
+                updateProgressCard(index, true);
             }
         }
 

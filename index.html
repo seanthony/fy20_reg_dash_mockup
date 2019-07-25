@@ -20,14 +20,14 @@
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary sticky-top d-flex justify-content-between">
             <div class="collapse navbar-collapse">
                 <ul class="navbar-nav">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="#">Results</a>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#results">Results</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Retention</a>
+                        <a class="nav-link" href="#retention">Retention</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Relationships</a>
+                        <a class="nav-link" href="#relationships">Relationships</a>
                     </li>
                 </ul>
             </div>
@@ -35,7 +35,7 @@
                 <img class="nav-img" src="./assets/TFA_logo_GreaterDelta_teal.png">
             </div>
         </nav>
-        <div class="row content">
+        <div class="row content" id="results">
             <div class="intro-text d-flex justify-content-between">
                 <div>
                     <p class="title-text">Results</p>
@@ -113,7 +113,7 @@
                 </div>
             </div>
         </div>
-        <div class="row content">
+        <div class="row content" id="retention">
             <div class="intro-text d-flex justify-content-between">
                 <div>
                     <p class="title-text">Retention</p>
@@ -182,7 +182,7 @@
                 </div>
             </div>
         </div>
-        <div class="row content" id="map-greater-delta">
+        <div class="row content" id="relationships">
             <div class="intro-text d-flex justify-content-between">
                 <div>
                     <p class="title-text">Relationships</p>
@@ -268,6 +268,11 @@
     <script src="./js/detailButton.js"></script>
     <script src="./js/cmData.js"></script>
     <script src="./js/retention.js"></script>
+    <script>
+        window.addEventListener("hashchange", function () {
+            window.scrollTo(window.scrollX, window.scrollY - 90);
+        });
+    </script>
 
     <script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-0.12.16.min.js"></script>
     <script type="text/javascript">
